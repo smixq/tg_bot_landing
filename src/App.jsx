@@ -1,5 +1,5 @@
 import "./App.css";
-import heroImage from "./assets/img/cropped_image.jpeg"; // замени на своё название файла
+import heroImage from "./assets/img/bdsmthebest (1).png"; // замени на своё название файла
 
 export default function App() {
   return (
